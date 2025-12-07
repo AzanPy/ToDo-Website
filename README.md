@@ -40,6 +40,6 @@ https://drive.google.com/file/d/10QksEpIoQTfRONwxYUiBwnCe8Ez2rlWD/view?usp=drive
 
 1. **The repository** :
    ```bash
-   https://github.com/Maaruuuf/ToDo-Website
+   https://github.com/AzanPy/ToDo-Website
    
    ```
